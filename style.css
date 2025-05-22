@@ -1,0 +1,6 @@
+.navbar {
+    position: fixed;
+    bottom: 0;
+    z-index: 1000; /* Stellt sicher, dass es über anderen Elementen liegt */
+    width: 100%;
+    }
